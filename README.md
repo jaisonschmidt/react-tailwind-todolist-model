@@ -20,7 +20,7 @@ Seu repositório deve ser público!
 
 Clique com o botão direito em **Copiar Exercício** e abra o link em uma nova aba.
 
-   <a id="copy-exercise" target="_blank" href="https://github.com/new?template_name=react-tailwind-todolist-model&template_owner=jaisonschmidt&name=react-tailwind-todolist&owner=%40me&visibility=public">
+   <a id="copy-exercise" target="_blank" href="https://github.com/new?template_name=react-tailwind-template&template_owner=jaisonschmidt&name=react-tailwind-projectname&owner=%40me&visibility=public">
       <img src="https://img.shields.io/badge/📠_Copiar_Exercício-008000" height="25pt"/>
    </a>
 
